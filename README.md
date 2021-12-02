@@ -3,9 +3,9 @@ Course materials from the Building a Recommendation System course with Python of
 
 ## Topics covered in this course include:
 
-### - Basic recommendation systems
-#### - Popularity-based recommenders
+### Basic recommendation systems
+#### * Popularity-based recommenders
 
-### - Collaborative filtering-based recommendation systems
-#### - User-based
-#### - Item-based
+### Collaborative filtering-based recommendation systems
+#### * </t> User-based
+#### * </t> Item-based
